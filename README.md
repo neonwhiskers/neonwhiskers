@@ -5,7 +5,7 @@
 
 
 ## 💫 About Me:
-I am an open source and Linux enthusiast 🐧🖥️  <br> DD-IX Dresden Internet Exchange Co-Founder and Chairperson of the Board 💚 🌐 <br>Apprentice at SAP SE 🌱 <br> Please be patient with me I am still learning 🌱  <br>roud cat parent of Bash 🐈‍⬛ <br>
+I am an open source and Linux enthusiast 🐧🖥️  <br> DD-IX Dresden Internet Exchange Co-Founder and Chairperson of the Board 💚 🌐 <br>Apprentice at SAP SE 🌱 <br> Please be patient with me I am still learning 🌱  <br> Proud cat parent of Bash 🐈‍⬛ <br>
 
 
 ## 🌐 Socials:
