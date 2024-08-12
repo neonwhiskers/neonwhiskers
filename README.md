@@ -5,7 +5,7 @@
 
 
 ## 💫 About Me:
-Site Reliability Engineer [@Cloudeteer](https://github.com/cloudeteer)  🖥️<br>Graduated apprenticeship at SAP SE in 2024 🌐<br>DD-IX Dresden Internet Exchange Co-Founder and Chairperson of the Board 💚 <br>I am an open source and Linux enthusiast 🐧<br>Please be patient with me I am still learning 🌱<br>Proud cat parent of Bash 🐈‍⬛
+Site Reliability Engineer [@Cloudeteer](https://github.com/cloudeteer) 🚀 🖥️<br>Graduated apprenticeship at SAP SE in 2024 🎓 <br>DD-IX Dresden Internet Exchange Co-Founder and Chairperson of the Board 💚 🌐 <br>I am an open source and Linux enthusiast 🐧<br>Please be patient with me I am still learning 🌱<br>Proud cat parent of Bash 🐈‍⬛
 
 
 ## 🌐 Socials:
