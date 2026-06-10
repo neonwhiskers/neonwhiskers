@@ -1,11 +1,11 @@
-# Hi there I am Mello!
+# Hi there I am Melo!
 
 
 <img src="./octocat-1702585397963.png" height="200px" style="max-width:100%;"> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neonwhiskers&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 💫 About Me:
-Site Reliability Engineer [@Cloudeteer](https://github.com/cloudeteer) 🚀 🖥️<br>Graduated apprenticeship at SAP SE in 2024 🎓 <br>DD-IX Dresden Internet Exchange Co-Founder and Chairperson of the Board 💚 🌐 <br>I am an open source and Linux enthusiast 🐧<br>Please be patient with me I am still learning 🌱<br>Proud cat parent of Bash 🐈‍⬛
+Site Reliability Engineer & Community Lead [@Cloudeteer](https://github.com/cloudeteer) 🚀 🖥️<br>Graduated apprenticeship at SAP SE in 2024 🎓 <br>DD-IX Dresden Internet Exchange Co-Founder and Chairperson of the Board 💚 🌐 <br>I am an open source and Linux enthusiast 🐧<br>Please be patient with me I am still learning 🌱<br>Proud cat parent of Bash 🐈‍⬛
 
 
 ## 🌐 Socials:
